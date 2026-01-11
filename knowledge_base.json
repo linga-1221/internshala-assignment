@@ -1,0 +1,27 @@
+{
+  "pricing_plans": {
+    "basic": {
+      "price": "$29/month",
+      "features": [
+        "10 videos/month",
+        "720p resolution"
+      ]
+    },
+    "pro": {
+      "price": "$79/month", 
+      "features": [
+        "Unlimited videos",
+        "4K resolution",
+        "AI captions"
+      ]
+    }
+  },
+  "company_policies": {
+    "refund_policy": "No refunds after 7 days",
+    "support": "24/7 support available only on Pro plan"
+  },
+  "company_info": {
+    "name": "AutoStream",
+    "description": "A SaaS product that provides automated video editing tools for content creators"
+  }
+}
